@@ -9,5 +9,9 @@
         <module name="testgit" />
       </profile>
     </annotationProcessing>
+
+    <bytecodeTargetLevel>
+      <module name="testgit" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
